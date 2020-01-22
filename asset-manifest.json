@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4632c7eb.chunk.css",
+    "main.js": "/static/js/main.b0471246.chunk.js",
+    "main.js.map": "/static/js/main.b0471246.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5319e892.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5319e892.js.map",
+    "static/js/2.64fc1b52.chunk.js": "/static/js/2.64fc1b52.chunk.js",
+    "static/js/2.64fc1b52.chunk.js.map": "/static/js/2.64fc1b52.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c4870f8959992c40a19dadf5b73a1db1.js": "/precache-manifest.c4870f8959992c40a19dadf5b73a1db1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4632c7eb.chunk.css.map": "/static/css/main.4632c7eb.chunk.css.map",
+    "static/js/2.64fc1b52.chunk.js.LICENSE": "/static/js/2.64fc1b52.chunk.js.LICENSE",
+    "static/media/900px-JavaScript-logo.png": "/static/media/900px-JavaScript-logo.11e8af26.png",
+    "static/media/Redux.png": "/static/media/Redux.59c46753.png",
+    "static/media/Tux.png": "/static/media/Tux.7ed8a808.png",
+    "static/media/Windows-Logo.png": "/static/media/Windows-Logo.96f372af.png",
+    "static/media/about_profile.jpg": "/static/media/about_profile.8be09ff1.jpg",
+    "static/media/android.png": "/static/media/android.dd1d21fe.png",
+    "static/media/Home.css": "/static/media/bg2.e93498ae.jpg",
+    "static/media/cpppp-490x490.png": "/static/media/cpppp-490x490.58393424.png",
+    "static/media/css.png": "/static/media/css.faae11a6.png",
+    "static/media/github-logo.png": "/static/media/github-logo.8c54ec07.png",
+    "static/media/html-5.png": "/static/media/html-5.5496a5aa.png",
+    "static/media/icons8-c-programming-500.png": "/static/media/icons8-c-programming-500.3b96c497.png",
+    "static/media/icons8-nodejs-500.png": "/static/media/icons8-nodejs-500.23d4be78.png",
+    "static/media/java.png": "/static/media/java.74e943d8.png",
+    "static/media/mongodb-logo-1.png": "/static/media/mongodb-logo-1.daeaaf51.png",
+    "static/media/mysql.png": "/static/media/mysql.07c28adf.png",
+    "static/media/react-1.svg": "/static/media/react-1.876a8325.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5319e892.js",
+    "static/js/2.64fc1b52.chunk.js",
+    "static/css/main.4632c7eb.chunk.css",
+    "static/js/main.b0471246.chunk.js"
+  ]
+}
