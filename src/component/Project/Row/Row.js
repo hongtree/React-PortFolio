@@ -1,8 +1,8 @@
 import React from "react";
-import gangneung from "./img/megabox.png";
+import gangneung from "./img/gangneung.png";
 import github from "./img/github-logo.svg";
 import "./Row.css";
-import megabox from "./img/gangneung.png";
+import megabox from "./img/megabox.png";
 import yogerpresso from "./img/yogerpresso.png";
 import youtube from "./img/youtube.png";
 
