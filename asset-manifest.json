@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-PortFolio/static/css/main.0054eaaf.chunk.css",
-    "main.js": "/React-PortFolio/static/js/main.e67224b9.chunk.js",
-    "main.js.map": "/React-PortFolio/static/js/main.e67224b9.chunk.js.map",
+    "main.css": "/React-PortFolio/static/css/main.997593ad.chunk.css",
+    "main.js": "/React-PortFolio/static/js/main.fc568003.chunk.js",
+    "main.js.map": "/React-PortFolio/static/js/main.fc568003.chunk.js.map",
     "runtime-main.js": "/React-PortFolio/static/js/runtime-main.e4f18b27.js",
     "runtime-main.js.map": "/React-PortFolio/static/js/runtime-main.e4f18b27.js.map",
-    "static/js/2.64fc1b52.chunk.js": "/React-PortFolio/static/js/2.64fc1b52.chunk.js",
-    "static/js/2.64fc1b52.chunk.js.map": "/React-PortFolio/static/js/2.64fc1b52.chunk.js.map",
+    "static/js/2.d5a5527b.chunk.js": "/React-PortFolio/static/js/2.d5a5527b.chunk.js",
+    "static/js/2.d5a5527b.chunk.js.map": "/React-PortFolio/static/js/2.d5a5527b.chunk.js.map",
     "index.html": "/React-PortFolio/index.html",
-    "precache-manifest.269d315770399de620186f7551cbd8f7.js": "/React-PortFolio/precache-manifest.269d315770399de620186f7551cbd8f7.js",
+    "precache-manifest.355b240a3e1c8f398880a0dcb01897ff.js": "/React-PortFolio/precache-manifest.355b240a3e1c8f398880a0dcb01897ff.js",
     "service-worker.js": "/React-PortFolio/service-worker.js",
-    "static/css/main.0054eaaf.chunk.css.map": "/React-PortFolio/static/css/main.0054eaaf.chunk.css.map",
-    "static/js/2.64fc1b52.chunk.js.LICENSE": "/React-PortFolio/static/js/2.64fc1b52.chunk.js.LICENSE",
+    "static/css/main.997593ad.chunk.css.map": "/React-PortFolio/static/css/main.997593ad.chunk.css.map",
+    "static/js/2.d5a5527b.chunk.js.LICENSE": "/React-PortFolio/static/js/2.d5a5527b.chunk.js.LICENSE",
     "static/media/900px-JavaScript-logo.png": "/React-PortFolio/static/media/900px-JavaScript-logo.11e8af26.png",
     "static/media/Redux.png": "/React-PortFolio/static/media/Redux.59c46753.png",
     "static/media/Tux.png": "/React-PortFolio/static/media/Tux.7ed8a808.png",
@@ -21,19 +21,24 @@
     "static/media/Home.css": "/React-PortFolio/static/media/bg2.e93498ae.jpg",
     "static/media/cpppp-490x490.png": "/React-PortFolio/static/media/cpppp-490x490.58393424.png",
     "static/media/css.png": "/React-PortFolio/static/media/css.faae11a6.png",
+    "static/media/gangneung.png": "/React-PortFolio/static/media/gangneung.792bb936.png",
     "static/media/github-logo.png": "/React-PortFolio/static/media/github-logo.8c54ec07.png",
+    "static/media/github-logo.svg": "/React-PortFolio/static/media/github-logo.b53ff55e.svg",
     "static/media/html-5.png": "/React-PortFolio/static/media/html-5.5496a5aa.png",
     "static/media/icons8-c-programming-500.png": "/React-PortFolio/static/media/icons8-c-programming-500.3b96c497.png",
     "static/media/icons8-nodejs-500.png": "/React-PortFolio/static/media/icons8-nodejs-500.23d4be78.png",
     "static/media/java.png": "/React-PortFolio/static/media/java.74e943d8.png",
+    "static/media/megabox.png": "/React-PortFolio/static/media/megabox.64d7e544.png",
     "static/media/mongodb-logo-1.png": "/React-PortFolio/static/media/mongodb-logo-1.daeaaf51.png",
     "static/media/mysql.png": "/React-PortFolio/static/media/mysql.07c28adf.png",
-    "static/media/react-1.svg": "/React-PortFolio/static/media/react-1.876a8325.svg"
+    "static/media/react-1.svg": "/React-PortFolio/static/media/react-1.876a8325.svg",
+    "static/media/yogerpresso.png": "/React-PortFolio/static/media/yogerpresso.870126e5.png",
+    "static/media/youtube.png": "/React-PortFolio/static/media/youtube.5bb1c7bc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e4f18b27.js",
-    "static/js/2.64fc1b52.chunk.js",
-    "static/css/main.0054eaaf.chunk.css",
-    "static/js/main.e67224b9.chunk.js"
+    "static/js/2.d5a5527b.chunk.js",
+    "static/css/main.997593ad.chunk.css",
+    "static/js/main.fc568003.chunk.js"
   ]
 }

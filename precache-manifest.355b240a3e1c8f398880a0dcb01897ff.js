@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ca9bfefc61a478a8c69ad91aef5f4ab",
+    "revision": "54cbf2ed699e943ef69633c25cad800c",
     "url": "/React-PortFolio/index.html"
   },
   {
-    "revision": "f1d21ef6271c9b16baa9",
-    "url": "/React-PortFolio/static/css/main.0054eaaf.chunk.css"
+    "revision": "9c726748e325a6f25f61",
+    "url": "/React-PortFolio/static/css/main.997593ad.chunk.css"
   },
   {
-    "revision": "f89f0c983de3baa3dd04",
-    "url": "/React-PortFolio/static/js/2.64fc1b52.chunk.js"
+    "revision": "c9c4011fe7034e1f47f1",
+    "url": "/React-PortFolio/static/js/2.d5a5527b.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/React-PortFolio/static/js/2.64fc1b52.chunk.js.LICENSE"
+    "url": "/React-PortFolio/static/js/2.d5a5527b.chunk.js.LICENSE"
   },
   {
-    "revision": "f1d21ef6271c9b16baa9",
-    "url": "/React-PortFolio/static/js/main.e67224b9.chunk.js"
+    "revision": "9c726748e325a6f25f61",
+    "url": "/React-PortFolio/static/js/main.fc568003.chunk.js"
   },
   {
     "revision": "e79d26d1ce22b49d8ed0",
@@ -60,8 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-PortFolio/static/media/css.faae11a6.png"
   },
   {
+    "revision": "792bb93651adaa9dd23071fb5a59fd95",
+    "url": "/React-PortFolio/static/media/gangneung.792bb936.png"
+  },
+  {
     "revision": "8c54ec0727b7919b84cd52a2efc47814",
     "url": "/React-PortFolio/static/media/github-logo.8c54ec07.png"
+  },
+  {
+    "revision": "b53ff55e09a092f9f0cbbf74af01b715",
+    "url": "/React-PortFolio/static/media/github-logo.b53ff55e.svg"
   },
   {
     "revision": "5496a5aa339d56ba870ba96f7528b455",
@@ -80,6 +88,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-PortFolio/static/media/java.74e943d8.png"
   },
   {
+    "revision": "64d7e544b3a8ca04c1fdeabf6dedb91b",
+    "url": "/React-PortFolio/static/media/megabox.64d7e544.png"
+  },
+  {
     "revision": "daeaaf51189d49c32411056c83360f41",
     "url": "/React-PortFolio/static/media/mongodb-logo-1.daeaaf51.png"
   },
@@ -90,5 +102,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "876a8325687358ce46ec26be29118535",
     "url": "/React-PortFolio/static/media/react-1.876a8325.svg"
+  },
+  {
+    "revision": "870126e535924c5bc6b787837f46f46f",
+    "url": "/React-PortFolio/static/media/yogerpresso.870126e5.png"
+  },
+  {
+    "revision": "5bb1c7bcb208c6f4f1859801b1a1cff7",
+    "url": "/React-PortFolio/static/media/youtube.5bb1c7bc.png"
   }
 ]);
