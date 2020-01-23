@@ -39,7 +39,7 @@ class About extends Component {
                 </li>
                 <li>
                   <p>(주)시터스</p>
-                  <p>기술연구부</p>
+                  <p>기술연구부(퇴사)</p>
                   <p className="date">2016.11 - 2019.11</p>
                 </li>
               </ul>
