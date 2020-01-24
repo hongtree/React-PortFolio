@@ -18,7 +18,7 @@ const Row = () => (
       <div className="Box_info">
         <h1 className="Box_title">강릉관광 웹사이트 리뉴얼</h1>
 
-        <h2 className="name">개발기간 :2018.08.10~ 2018.11.30</h2>
+        <h2 className="name">개발소요기간 : 약10일</h2>
         <p className="Box_content">
           원페이지 스타일로 여행 정보를 배치하여 효과적으로 <br />
           전달되도록 하였고 반응형 작업을 진행한 사이트입니다. <br />
@@ -48,7 +48,7 @@ const Row = () => (
       <div className="Box_info">
         <h1 className="Box_title">메가박스 반응형 웹사이트 리뉴얼</h1>
 
-        <h2 className="name">개발기간 :2018.05.26~2018.07.09</h2>
+        <h2 className="name">개발소요기간 : 약2주</h2>
         <p className="Box_content">
           이미지 슬라이더, 탭메뉴, 모달 등 다양한 스크립트 요소를 <br />
           활용하여 반응형 작업을 진행한 사이트 입니다. <br />
@@ -79,7 +79,7 @@ const Row = () => (
       <div className="Box_info">
         <h1 className="Box_title">요거프레소 웹사이트 리뉴얼</h1>
 
-        <h2 className="name">개발기간 :2018.03.10~2018.06.09</h2>
+        <h2 className="name">개발소요기간 : 약 12일</h2>
         <p className="Box_content">
           메인컬러인 빨간색 컬러를 중심으로 강렬하고 심플함을 주었고 <br />
           신제품, 공지사항을 한눈에 볼수있도록 수정했습니다. <br />
