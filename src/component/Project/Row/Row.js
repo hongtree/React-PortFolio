@@ -5,9 +5,39 @@ import "./Row.css";
 import megabox from "./img/megabox.png";
 import yogerpresso from "./img/yogerpresso.png";
 import youtube from "./img/youtube.png";
+import kakao from "./img/kakao.png";
+import movieapp from "./img/movieapp.png";
 
 const Row = () => (
   <div className="Row">
+    <div className="Box">
+      <div className="Box_image">
+        <a href="http://lhs423.com/kakao_clone/index.html">
+          <img src={kakao} alt="kakao" className="image"></img>{" "}
+        </a>
+      </div>
+      <div className="Box_info">
+        <h1 className="Box_title">카카오 클론코딩</h1>
+
+        <h2 className="name">개발소요기간 : 약 7일</h2>
+        <p className="Box_content">
+          카카오톡 font-end clone 만들기 <br />
+          HTML, CSS를 이용하여 프로필 페이지, 채팅 페이지, <br />
+          설정 페이지 등을 만들었습니다. <br />
+        </p>
+        <ul className="Box_ul">
+          <li className="Box_li">#HTML</li>
+          <li className="Box_li">#CSS</li>
+        </ul>
+        <ul className="Box_ul">
+          <li className="Box_li">
+            <a href="https://github.com/hongtree/Yogerpresso" alt="github">
+              <img src={github} alt="github" className="icon_image" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
     <div className="Box">
       <div className="Box_image">
         <a href="http://www.lhs423.com/RENEWAL1/index.html">
@@ -94,6 +124,33 @@ const Row = () => (
         <ul className="Box_ul">
           <li className="Box_li">
             <a href="https://github.com/hongtree/Yogerpresso" alt="github">
+              <img src={github} alt="github" className="icon_image" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div className="Box">
+      <div className="Box_image">
+        <a href="https://movie-app-363b9.firebaseapp.com">
+          <img src={movieapp} alt="movieapp" className="image"></img>
+        </a>
+      </div>
+      <div className="Box_info">
+        <h1 className="Box_title">MovieApp 사이트</h1>
+
+        <h2 className="name">개발기간: 6일</h2>
+        <p className="Box_content">
+          React 와 yts API 이용하여 <br />
+          영화 정보와 순위를 보여주는 웹사이트입니다.
+        </p>
+        <ul className="Box_ul">
+          <li className="Box_li">#React</li>
+          <li className="Box_li">#Java Script</li>
+        </ul>
+        <ul className="Box_ul">
+          <li className="Box_li">
+            <a href="https://github.com/hongtree/movie_app" alt="github">
               <img src={github} alt="github" className="icon_image" />
             </a>
           </li>
