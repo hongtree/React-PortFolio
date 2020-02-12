@@ -7,6 +7,7 @@ import yogerpresso from "./img/yogerpresso.png";
 import youtube from "./img/youtube.png";
 import kakao from "./img/kakao.png";
 import movieapp from "./img/movieapp.png";
+import jspbbs from "./img/jspbbs.png";
 
 const Row = () => (
   <div className="Row">
@@ -124,6 +125,38 @@ const Row = () => (
         <ul className="Box_ul">
           <li className="Box_li">
             <a href="https://github.com/hongtree/Yogerpresso" alt="github">
+              <img src={github} alt="github" className="icon_image" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div className="Box">
+      <div className="Box_image">
+        <a href="http://hongtree.cafe24.com/main.jsp">
+          <img src={jspbbs} alt="jspbbs" className="image"></img>{" "}
+        </a>
+      </div>
+      <div className="Box_info">
+        <h1 className="Box_title">JSP 게시판</h1>
+
+        <h2 className="name">개발소요기간 : 약 5일</h2>
+        <p className="Box_content">
+          이 웹사이트는 부트스트랩으로 만든 JSP 웹사이트 입니다. <br />
+          게시판의 글 작성, 글 삭제, 글 보기, 글 목록 등을 구현하였고 <br />
+          프레임워크로는 부트스트랩을 이용, 데이터베이스는 MySQL사용하였습니다.
+        </p>
+        <ul className="Box_ul">
+          <li className="Box_li">#JSP</li>
+          <li className="Box_li">#Bootstrap</li>
+          <li className="Box_li">#JAVA</li>
+          <li className="Box_li">#HTML</li>
+          <li className="Box_li">#CSS</li>
+          <li className="Box_li">#MySQL</li>
+        </ul>
+        <ul className="Box_ul">
+          <li className="Box_li">
+            <a href="https://github.com/hongtree" alt="github">
               <img src={github} alt="github" className="icon_image" />
             </a>
           </li>
